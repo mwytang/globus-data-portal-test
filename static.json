@@ -14,10 +14,10 @@
       },
       "globus": {
         "application": {
-          "client_id": "fa198f1c-d1d5-407e-b2e1-67afdff1e1a9"
+          "client_id": "e6768691-1034-403f-a603-b911d45f1955"
       },
         "transfer": {
-          "collection_id": "a6f165fa-aee2-4fe5-95f3-97429c28bf82",
+          "collection_id": "cc2e6fed-7f98-4d7c-aa15-4151b2255020",
           "path": "/portal/catalog/"
         }
       }
